@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Prolancer Clone (Next.js & Tailwind CSS)
 
-## Getting Started
+This project is a clone of **Prolancer**, a freelance marketplace website, developed using **Next.js** and **Tailwind CSS** during my internship at **Qwerty Experts**. The objective was to replicate the design and layout of the Prolancer website, providing hands-on experience with building modern, responsive web applications using these technologies.
 
-First, run the development server:
+### Project Overview
+- **Responsive Design**: Fully responsive, with the layout adjusting for various screen sizes (desktop, tablet, and mobile).
+- **Tech Stack**: Built using **Next.js** for server-side rendering, routing, and React functionality, and **Tailwind CSS** for styling and layout.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Features
+- **Home Page**: A replica of the Prolancer homepage, featuring sections like services, features, and call-to-action buttons all **non-functional**.
+- **UI/UX**: Replicated the clean and modern layout of the original Prolancer site to demonstrate proficiency in responsive design and user interface development.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Technologies Used
+- **Next.js**: For routing, server-side rendering, and dynamic page creation.
+- **Tailwind CSS**: To quickly build a responsive and customizable layout using utility-first CSS classes.
+- **React**: For managing the website's components and handling state.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Note**: This project is a clone of the Prolancer website for educational purposes, and **not functional**. It is purely for practice and to learn how to implement web layouts using Next.js and Tailwind CSS.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
